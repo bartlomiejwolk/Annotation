@@ -11,7 +11,7 @@ namespace AnnotationEx.TodoComponent {
 
         #region CONSTANTS
 
-        public const string Version = "v0.1.0";
+        public const string Version = "v0.2.0";
         public const string Extension = "Annotation";
 
         #endregion
