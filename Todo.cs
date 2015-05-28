@@ -33,6 +33,9 @@ namespace AnnotationEx {
 
         #region INSPECTOR FIELDS
 
+        /// <summary>
+        /// Description of the task.
+        /// </summary>
         [SerializeField]
         private string description = "Description";
 
