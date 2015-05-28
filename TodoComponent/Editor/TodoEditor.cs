@@ -5,7 +5,7 @@
 
 using UnityEditor;
 
-namespace AnnotationEx {
+namespace AnnotationEx.TodoComponent {
 
     [CustomEditor(typeof(Todo))]
     [CanEditMultipleObjects]
