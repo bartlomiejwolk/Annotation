@@ -5,7 +5,7 @@
 
 using UnityEngine;
 
-namespace AnnotationEx {
+namespace AnnotationEx.TodoComponent {
 
     public sealed class Todo : MonoBehaviour {
 
